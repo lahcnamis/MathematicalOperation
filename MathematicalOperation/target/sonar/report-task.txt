@@ -1,0 +1,5 @@
+projectKey=com.sandip:MathematicalOperation
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.sandip:MathematicalOperation
+ceTaskId=AWEngXk6Jm0hjWkPfFnn
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWEngXk6Jm0hjWkPfFnn
